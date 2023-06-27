@@ -15,4 +15,5 @@ An open source collaborative art project following Pepe on his spiritual journey
 - New cards must be approved by the Mystic Council of Gurus
 
 https://mysticpepe.com
+
 https://twitter.com/mystic_pepe

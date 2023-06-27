@@ -4,7 +4,7 @@ An open source collaborative art project following Pepe on his spiritual journey
 
 ## Mission and Goals
 - Explore spirituality and glorify equanimity lovingkindness and peace through art
-- Provide a platform for real artists to collaborate, contribute and earn money from their work
+- Provide a platform for artists to collaborate, contribute and earn money from their work
 - Create high value collectibles for collectors to purchase
 - Raise money for open source development and other non-profit organizations
 
